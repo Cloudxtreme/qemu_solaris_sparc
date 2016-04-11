@@ -1,5 +1,5 @@
-# qemu_system-sparc bootable image
-Solaris 8 Sparc Image for qemu-sparc
+# qemu-system-sparc bootable image
+Solaris 8 Bootable sparc image 
 
 Example qemu-system-sparc command:
 
